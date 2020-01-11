@@ -98,14 +98,14 @@ gitment:
     owner: xiadongShadow
     repo: blog-comments
     oauth:
-        client_id: 23126ab567ccfef44332
-        client_secret: 691162a5da78327475cf3284468ad4629a6821a9
+        client_id: f39859e7e0ecf5c5d0ca
+        client_secret: b192048cf9c38302e5b268952ad2ee7699967cff
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: xiadongShadow
     repo: blog-comments
-    clientID: 23126ab567ccfef44332
-    clientSecret: 691162a5da78327475cf3284468ad4629a6821a9
+    clientID: f39859e7e0ecf5c5d0ca
+    clientSecret: b192048cf9c38302e5b268952ad2ee7699967cff
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
