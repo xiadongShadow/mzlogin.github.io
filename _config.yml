@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://xiadongblog.com
 date_format: "ordinal"
 title: 码志
 subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+description: "夏冬个人博客"
+keywords: 夏冬, Xia Dong, xiadongShadow, xiadong
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -19,8 +19,8 @@ author: Zhuang Ma
 organization: 
 organization_url: 
 github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+location: xia'an, China
+email: xiadong332@icloud.com
 
 # ---------------- #
 #    Navigation    #
