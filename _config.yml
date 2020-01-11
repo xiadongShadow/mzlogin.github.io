@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://xiadongblog.com
+url: https://www.xiadongblog.com
 date_format: "ordinal"
 title: 夏冬博客
 subtitle: "分享技术，体会生活"
